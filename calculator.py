@@ -13,6 +13,7 @@ def add(a: float, b: float) -> float:
 
 def subtract(a: float, b: float) -> float:
     return a - b
+    # Natalia: функция вычитания протестирована, замечаний нет
 
 
 def multiply(a: float, b: float) -> float:
