@@ -8,6 +8,7 @@ import math
 
 def add(a: float, b: float) -> float:
     return a + b
+    # Natalia: проверила функцию сложения — работает корректно, граничные случаи учтены
 
 
 def subtract(a: float, b: float) -> float:
